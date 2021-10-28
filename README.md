@@ -16,5 +16,5 @@ The following analysis is organized as follow. Firstly, I explore and clean the 
 Secondly, I compute/extract the key parameters to study the effect of the different strategies against Covid-19. 
 Finally, I use geopandas to better visualize these strategies by plotting the key parameters on the world map for two regions Europe and North America.
 
-(Additionally, I also uploaded this code on Kaggle.)
+(Additionally, I also uploaded this code on Kaggle. https://www.kaggle.com/jvachier/who-covid-19)
 
